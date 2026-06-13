@@ -1,6 +1,6 @@
 {
   "name": "@n8n-dev/n8n-nodes-fungenerators-uuid",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "REST UUID generator with JSON/XML/JSONP support.",
   "license": "MIT",
   "homepage": "https://n8n-code.github.io/n8n-dev/#/n8n-nodes-fungenerators-uuid",
